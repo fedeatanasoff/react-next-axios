@@ -1,7 +1,7 @@
 import Link from 'next/prefetch'
 
 export default ({ children }) => (
-  <div className='main'>
+  <div className='container'>
     <div className='logo'>
       <h2>
         <Link href='/'><a>App</a></Link>
